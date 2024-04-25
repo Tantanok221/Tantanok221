@@ -1,4 +1,4 @@
-### About Me 😄
+### ✨ About Me   
 Hi there, Im a passionate front end developer that also love UIUX design. Currently pursuing Diploma In IT at MMU,Malaysia  
 
 Name: Tan Kai  
