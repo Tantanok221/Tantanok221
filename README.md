@@ -1,14 +1,15 @@
 ### About Me 😄
-Hi there, Im a passionate front end developer that also love UIUX design. Currently pursuing Diploma In IT at MMU,Malaysia
-Name: Tan Kai
-Other Name: Stangen,Tantanok
-Interest: Programming,40% keyboards,UIUX Design
+Hi there, Im a passionate front end developer that also love UIUX design. Currently pursuing Diploma In IT at MMU,Malaysia  
+
+Name: Tan Kai  
+Other Name: Stangen,Tantanok  
+Interest: Programming,40% keyboards,UIUX Design  
 
 ### 🔗 Records
 [![Stangen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tantanok221&hide=prs,issues&theme=onedark&show_icons=true)]
 
 ### 🛠 Repo
-[Douren](https://github.com/Tantanok221/DoujinBooth-Website) [demo](https://douren.net/)
+[Douren](https://github.com/Tantanok221/DoujinBooth-Website): Douren is a website that gather booth information about a doujin event and help participant find information about booth artist quickly. [demo](https://douren.net/)
 
 ### 🔨 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tantanok221&layout=compact)]
