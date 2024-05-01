@@ -14,8 +14,7 @@ Interest: Programming,40% keyboards,UIUX Design
 ### 🔨 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tantanok221&layout=compact)]
 
-### 🕛 Wakatime Stats
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Stangen)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Tantanok221/Tantanok221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
