@@ -9,7 +9,7 @@ Interest: Programming,40% keyboards,UIUX Design
 [![Stangen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tantanok221&hide=prs,issues&theme=onedark&show_icons=true)]
 
 ### 🛠 Repo
-[Douren Monorepo]((https://github.com/Tantanok221/Douren-Monorepo)): Douren is a website that gather booth information about a doujin event and help participant find information about booth artist quickly. [demo](https://douren.net/)   
+[Douren Monorepo](https://github.com/Tantanok221/Douren-Monorepo): Douren is a website that gather booth information about a doujin event and help participant find information about booth artist quickly. [demo](https://douren.net/)   
 
 ### 🔨 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tantanok221&layout=compact)]
