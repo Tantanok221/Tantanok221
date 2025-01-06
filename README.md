@@ -1,5 +1,5 @@
 ### ✨ About Me   
-Hi there, Im a passionate front end developer that also love UIUX design. Currently pursuing Diploma In IT at MMU,Malaysia  
+Hi there, Im a passionate full stack developer that also love UIUX design. Currently pursuing Diploma In IT at MMU,Malaysia  
 
 Name: Tan Kai  
 Other Name: Stangen,Tantanok  
